@@ -38,7 +38,6 @@ const Feedback = () => {
                 <div className='text-center text-white'>
                     <p className='md:text-2xl md:w-[70vh] xl:w-[100vh] w-[45vh] font-inter font-light xl:text-2xl text-[22px]'>"Flowbite is just awesome. It contains tons of predesigned components and pages starting from login screen to complex dashboard. Perfect choice for your next SaaS application."</p>
                 </div>
-
                 <div className='flex justify-center items-center p-2 mt-4'>
                     <div className='flex justify-content items-center pr-5 border-r-2'>
                         <img className='z-10 object-fit w-8 h-8 object-cover rounded-full' src="https://images.unsplash.com/photo-1534528741775-53994a69daeb?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="/" />
@@ -46,13 +45,11 @@ const Feedback = () => {
                     </div>
                         <h1 className='ml-4 pr-5 text-[#727273] font-inter font-light xl:text-md text-sm '> CEO at Google</h1>
                 </div>
-
                 <div className='z-10 flex justify-center items-center my-6'>
                     <FaAngleLeft className='w-5 h-auto text-[#f5f378] mx-4'/>
                     <FaAngleRight className='w-5 h-auto text-[#f5f378] mx-4'/>
                 </div>
             </div>
-            
             <div className=' relative flex justify-center items-center font-briceRegular w-full h-7 bg-[#c6e58a] rotate-[-3deg] inl'>
                 <h1 className='mx-8 inline-block'>testimonials</h1>
                 <h1 className='mx-8 inline-block'>testimonials</h1>
