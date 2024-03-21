@@ -15,17 +15,14 @@ function Systems() {
           </div>
           <div className=' h-auto grid xl:lg:md:grid-cols-2 grid-cols-1 gap-12 p-5 '>
             <div className="group relative items-center overflow-hidden justify-center  rounded-2xl cursor-pointer">
-              
               <div className='md:sm:lg:xl:h-[34vh] h-[30vh]  md:xl:sm:lg:w-[60vh] rounded-2xl'>
                 <img src={project1} alt="Nextplay"  className='rounded-2xl lg:w-full xl:w-full md:w-full sm:w-full w-[56vh] h-full  brightness-100 cursor-pointer group-hover:scale-150 group-hover:brightness-50 duration-300'/>  
               </div>
-
               <div className='absolute px-9 inset-0 flex flex-col justify-end -bottom-60 group-hover:bottom-0 duration-300'>
                 <h1 className="text-3xl font-poppins font-bold text-white">KOPIMED</h1>
                 <p className='text-white font-poppins mb-5 mr-[6vh]'>Kopimed App: Satisfying every coffee craving, one cup at a time.</p>
               </div>
             </div>
-
             <div className="group relative items-center justify-center overflow-hidden rounded-2xl cursor-pointer">
               <div className='md:sm:lg:xl:h-[34vh] h-[30vh] md:xl:sm:lg:w-[60vh] rounded-2xl '>
                 <img src={project4}  alt="Nextplay"  className='bg-black rounded-2xl lg:w-full xl:w-full md:w-full sm:w-full w-[56vh] h-full  brightness-100 cursor-pointer group-hover:scale-150 group-hover:brightness-50 duration-300'/>  
@@ -35,7 +32,6 @@ function Systems() {
                 <p className='text-white font-poppins mb-5 mr-[6vh]'>It's a Student Data Management System for all the students of Rizal Technologicla University.</p>
               </div>
             </div>
-
             <div className="group relative items-center justify-center overflow-hidden rounded-2xl cursor-pointer">
               <div className='md:sm:lg:xl:h-[34vh] h-[30vh] md:xl:sm:lg:w-[60vh] rounded-2xl'>
                 <img src={project3} alt="Nextplay"  className='rounded-2xl lg:w-full xl:w-full md:w-full sm:w-full w-[56vh] h-full  brightness-100 cursor-pointer group-hover:scale-150 group-hover:brightness-75 duration-300 group-hover:blur-[0.70px] '/>  
@@ -45,7 +41,6 @@ function Systems() {
                 <p className='text-white font-poppins mb-5 mr-[6vh]'>ChronoLib: A Library Management System for the students of Rizal Technological University.</p>
               </div>
             </div>
-
             <div className="group relative items-center justify-center overflow-hidden rounded-2xl cursor-pointer">
               <div className='md:sm:lg:xl:h-[34vh] h-[30vh] md:xl:sm:lg:w-[60vh] rounded-2xl'>
                 <img src={project2} alt="Nextplay"  className='rounded-2xl lg:w-full xl:w-full md:w-full sm:w-full w-[56vh] h-full  brightness-100 cursor-pointer group-hover:scale-150 group-hover:brightness-50 duration-300'/>  
