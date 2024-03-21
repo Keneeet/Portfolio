@@ -14,7 +14,6 @@ function Main() {
             <img src={iconImage} alt="icon" className='w-5 h-5'/>
           </div>
           <img src={pinchImage} alt="Pinch" className='w-[30vh]  mb-3 z-10 hover:scale-110 duration-300 hover:drop-shadow-[0_0_40px_rgba(197,_136,_209,_0.10)]' />
-          
           <p className='sm:w-[70vh] lg:md:w-[100vh] mb-5 text-lg xl:text-4xl text-center mx-10 clamp-2 font-medium text-white font-briceThin'>Experienced Freelance UI/UX, Developer, & Graphic Designer crafting captivating digital experiences.</p>
           <div className='font-bold font-inter z-10'>
             <button className='m-2 rounded-xl text-[#1a1a1a] bg-[#c588d1] p-4 w-auto'>Download CV</button>
